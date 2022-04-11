@@ -5,123 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f867d1b-a546-44e1-acee-bc05bff163e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day24/Letters/Letter_for_Aang.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day24/Letters/Letter_for_Appa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day24/Letters/Letter_for_Katara.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day24/Letters/Letter_for_Soka.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day24/Letters/Letter_for_Zuko.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day24/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day24/new_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day25/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day25/newData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day25/weather_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day26 List Comperension/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day26 List Comperension/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day26 List Comperension/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day26 List Comperension/nato_phonetic_alphabet.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day30 TryCatch/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day30 TryCatch/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day32 smtp Email/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day32 smtp Email/quote.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day33 API/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alexa/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkHashMap/hashmap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkHashMap/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/blog.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/poetry.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/css/clean-blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/css/clean-blog.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/img/contact-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/img/edit-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/js/clean-blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/js/clean-blog.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/js/contact_me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/js/jqBootstrapValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_bootstrap-overrides.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_masthead.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_post.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/scss/clean-blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/make-post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myBlog/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql with api/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql with api/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql with api/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/us-states-game-start/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,8 +61,8 @@
       <recent name="C:\project\100CodePython\hirst-painting-start" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100CodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day33 API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day33 API/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main2" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
